@@ -21,7 +21,7 @@
     </tr>
     <tr>
       <td><strong>AI evals, RAG &amp; guardrails</strong></td>
-      <td>Built evaluation harness for explainable AI lending decisions:<strong>5,630</strong> controlled audits, a <strong>55-test</strong> RAG-safety suite, and a <strong>68-test</strong> & concurrent agentic loops that catch hallucination in LLM decisions</td>
+      <td>Built evaluation harness for explainable AI lending decisions:<strong>5,630</strong> controlled audits, a <strong>55-test</strong> RAG-safety suite & concurrent agentic loops to catch hallucination in LLM decisions</td>
       <td><a href="https://github.com/a-bhimava/llm-credit-decision-audit">Credit Decision Audit</a> · <a href="https://github.com/a-bhimava/rag-citation-guardrail">RAG Citation Guardrail</a> · <a href="https://github.com/a-bhimava/agent-trace-to-evals">Agent Trace to Evals</a></td>
     </tr>
     <tr>
