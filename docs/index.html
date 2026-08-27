@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Visual case studies by Aditya Teja Bhimavarapu.">
+    <title>Visual Project Gallery · Aditya Teja Bhimavarapu</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="page-shell">
+      <header class="site-header">
+        <a class="back-link" href="https://github.com/a-bhimava" aria-label="Return to Aditya's GitHub profile">
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M19 12H5m6-6-6 6 6 6"/></svg>
+          GitHub profile
+        </a>
+        <p class="eyebrow">Visual project gallery</p>
+        <h1>Proof you can inspect.</h1>
+        <p class="lede">AI product case studies - from 0-to-1 growth and fintech workflows to RAG reliability, market intelligence, and agent evaluation.</p>
+      </header>
+
+      <nav class="project-nav" aria-label="Gallery projects" id="project-nav"></nav>
+
+      <section class="gallery-section" aria-labelledby="gallery-heading">
+        <div class="gallery-heading-row">
+          <div>
+            <p class="eyebrow">Screenshots &amp; artifacts</p>
+            <h2 id="gallery-heading">Explore the work</h2>
+          </div>
+          <div class="gallery-controls" aria-label="Gallery controls">
+            <button class="control-button" type="button" id="previous-slide" aria-label="Previous screenshot">
+              <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></svg>
+            </button>
+            <button class="control-button" type="button" id="next-slide" aria-label="Next screenshot">
+              <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M9 18l6-6-6-6"/></svg>
+            </button>
+          </div>
+        </div>
+
+        <p class="gallery-help">Scroll, drag, or use the arrow buttons. Select a screenshot to view it full size.</p>
+        <div class="gallery-rail" id="gallery-rail" tabindex="0" aria-label="Project screenshots"></div>
+        <p class="gallery-status" id="gallery-status" aria-live="polite"></p>
+      </section>
+
+      <section class="iteration-note" aria-labelledby="iteration-heading">
+        <p class="eyebrow">Built to evolve</p>
+        <h2 id="iteration-heading">Add the next proof in one place.</h2>
+        <p>Every project and screenshot is defined in <code>data/projects.js</code>. Add an image file, its alt text, and a caption - the gallery updates without layout changes.</p>
+      </section>
+    </main>
+
+    <dialog class="image-viewer" id="image-viewer" aria-labelledby="viewer-title">
+      <div class="viewer-inner">
+        <button class="viewer-close" type="button" id="viewer-close" aria-label="Close full-size screenshot">
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></svg>
+        </button>
+        <img id="viewer-image" alt="">
+        <div class="viewer-copy">
+          <p class="eyebrow" id="viewer-topic"></p>
+          <h2 id="viewer-title"></h2>
+          <p id="viewer-caption"></p>
+        </div>
+      </div>
+    </dialog>
+
+    <script src="data/projects.js"></script>
+    <script src="gallery.js"></script>
+  </body>
+</html>
