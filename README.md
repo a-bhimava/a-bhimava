@@ -16,12 +16,12 @@
     </tr>
     <tr>
       <td><strong>AI agents &amp; fintech product</strong></td>
-      <td><strong>90+</strong> surveys, <strong>10</strong> interviews, and <strong>16</strong> competitors informed a <strong>$2B</strong> opportunity; shipped a multi-agent LangGraph workflow in four weeks</td>
+      <td>Shipped a multi-agent LangGraph cash-flow copilot for <strong>PNC Bank</strong> in four weeks; <strong>90+</strong> surveys, <strong>10</strong> interviews, and <strong>16</strong> competitors shaped a <strong>$2B</strong> opportunity</td>
       <td><a href="https://github.com/a-bhimava/PNC-Business-360">Business 360 with PNC Bank — Product Manager Consultant</a></td>
     </tr>
     <tr>
       <td><strong>AI evals, RAG &amp; guardrails</strong></td>
-      <td><strong>5,630</strong> causal-audit episodes; a <strong>55-test</strong> RAG/refusal-policy harness; a <strong>68-test</strong> trace-to-pytest CI pipeline</td>
+      <td>Built an evaluation system for whether AI lending decisions can be explained: <strong>5,630</strong> controlled audits, a <strong>55-test</strong> RAG-safety suite, and a <strong>68-test</strong> CI pipeline that turns agent traces into regression tests</td>
       <td><a href="https://github.com/a-bhimava/llm-credit-decision-audit">Credit Decision Audit</a> · <a href="https://github.com/a-bhimava/rag-citation-guardrail">RAG Citation Guardrail</a> · <a href="https://github.com/a-bhimava/agent-trace-to-evals">Agent Trace to Evals</a></td>
     </tr>
     <tr>
