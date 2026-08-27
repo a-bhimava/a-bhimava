@@ -11,7 +11,7 @@
   <tbody>
     <tr>
       <td><strong>0-to-1 AI product &amp; growth</strong></td>
-      <td>Product Hunt Top 10; <strong>10,000+</strong> users in six months; <strong>2,000+</strong> AI assessments across <strong>10+</strong> hiring teams</td>
+      <td><strong>10,000+</strong> users in six months;Ranked Top 10 on Product Hunt;<strong>2,000+</strong> AI assessments across <strong>10+</strong> hiring teams</td>
       <td><a href="https://github.com/a-bhimava/projectsyard">ProjectsYard — Founder &amp; Product Lead</a></td>
     </tr>
     <tr>
