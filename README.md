@@ -1,4 +1,4 @@
-#### Aditya Teja Bhimavarapu <small>· AI Product Manager | 0→1 SaaS Builder | AI Patents (Pending) | Product Growth, AI Evals & Finance</small>
+#### Aditya Teja Bhimavarapu <small>· AI Product Manager | 5+ Years of Experience across Banking, Recruiting, IT</small>
 
 <table>
   <thead>
