@@ -3,8 +3,8 @@
 <table>
   <thead>
     <tr>
-      <th width="27%">Skills</th>
-      <th width="51%">Proof</th>
+      <th width="17%">Skills</th>
+      <th width="61%">Proof</th>
       <th width="22%">Work</th>
     </tr>
   </thead>
