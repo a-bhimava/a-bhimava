@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090A10"/>
+      <stop offset="0.55" stop-color="#101323"/>
+      <stop offset="1" stop-color="#18203E"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#080A10" stop-opacity="0"/>
+      <stop offset="1" stop-color="#080A10" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#D6DDFF"/>
+      <stop offset="1" stop-color="#7187FF"/>
+    </linearGradient>
+    <clipPath id="screen"><rect x="38" y="168" width="1124" height="348" rx="20"/></clipPath>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="1055" cy="130" r="280" fill="#8FA0FF" fill-opacity="0.1"/>
+  <path d="M0 120H632C824 120 915 65 1200 65" fill="none" stroke="#B7C3FF" stroke-opacity="0.23" stroke-width="2"/>
+  <path d="M0 120H504" fill="none" stroke="url(#signal)" stroke-width="4"/>
+  <text x="40" y="68" fill="#CAD3FF" font-family="Avenir Next, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3">EXHIBIT 02 / AI EVALUATION</text>
+  <text x="1160" y="68" fill="#8E96B7" text-anchor="end" font-family="Andale Mono, monospace" font-size="16" letter-spacing="1.4">CAUSAL AUDIT · CREDIT RISK</text>
+  <g clip-path="url(#screen)">
+    <image href="../../../docs/assets/screenshots/Credit Decision Audit.png" x="38" y="115" width="1124" height="600" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="38" y="168" width="1124" height="348" fill="url(#fade)"/>
+  </g>
+  <rect x="38" y="168" width="1124" height="348" rx="20" fill="none" stroke="#FFF" stroke-opacity="0.22"/>
+  <rect x="40" y="548" width="8" height="162" rx="4" fill="#A7B6FF"/>
+  <text x="72" y="602" fill="#F7F8FF" font-family="Avenir Next, Arial, sans-serif" font-size="49" font-weight="700" letter-spacing="-1.6">LLM Credit Decision Audit</text>
+  <text x="72" y="643" fill="#C1C8E0" font-family="Avenir Next, Arial, sans-serif" font-size="23">Turn an AI explanation into a claim that can be inspected and tested.</text>
+  <text x="72" y="714" fill="#D6DDFF" font-family="Andale Mono, monospace" font-size="21" font-weight="700">5,630 REPRODUCIBLE EPISODES</text>
+  <line x1="486" y1="694" x2="486" y2="726" stroke="#58627D"/>
+  <text x="516" y="714" fill="#F7F8FF" font-family="Avenir Next, Arial, sans-serif" font-size="25" font-weight="700">controlled variation → evidence trace</text>
+  <text x="72" y="757" fill="#8B93AC" font-family="Andale Mono, monospace" font-size="15" letter-spacing="1.2">HYPOTHESIS → TEST → AUDIT</text>
+</svg>

@@ -6,23 +6,44 @@ I built AI products for decisions that matter: like how a small business acts on
 with deep technical depth in LLMs, RAG, model fine-tuning, multi-agent workflows, evaluation harnesses, Python, SQL and Java
 My work connects customer research, product strategy, and hands-on systems design with 5+ years of experience as a Founder, Manager and Senior Analyst. 
 
-## Selected evidence
+<p align="center">
+  <img src="./assets/readme/proof-loop.gif" alt="Animated operating loop: customer and market signal, product system, then evidence to act." width="100%" />
+</p>
 
-| Topic | Proof | Work |
-| --- | --- | --- |
-| **0-to-1 AI product & growth** | Product Hunt Top 10; **10,000** accounts acquired in six months; **2,000+** AI assessments across **10+** hiring teams | [ProjectsYard - Founder & Product Lead](https://github.com/a-bhimava/projectsyard) |
-| **AI agents & fintech product** | **90+** surveys, **10** interviews, and **16** competitors informed a $2B opportunity; shipped a multi-agent LangGraph workflow in four weeks | [Business 360 with PNC Bank - Product Manager Consultant](https://github.com/a-bhimava/PNC-Business-360) |
-| **AI evals, RAG & guardrails** | **5,630** causal-audit episodes; a **55-test** RAG/refusal-policy harness; a **68-test** trace-to-pytest CI pipeline | [Credit Decision Audit](https://github.com/a-bhimava/llm-credit-decision-audit) · [RAG Citation Guardrail](https://github.com/a-bhimava/rag-citation-guardrail) · [Agent Trace to Evals](https://github.com/a-bhimava/agent-trace-to-evals) |
-| **ML, data & credit risk at enterprise scale** | ICICI: ~**30,000** documents/year for ~**3,000** corporate clients; **25%** faster appraisal. Capgemini: **200M** daily transactions, a **16B**-row feature store, and **50M** accounts scored monthly | ICICI Bank - Corporate Banking Manager · Capgemini - Senior Analyst |
+## Work that stands up to inspection
 
-## Visual project gallery
-
-[Explore project screenshots and artifacts →](https://a-bhimava.github.io/a-bhimava/)
-
-*The linked reliability repositories distinguish their current scripted or synthetic validation from claims about real models or production traces.*
-
-
-**Working with:** product strategy · customer research · PRDs · B2B SaaS · fintech · generative AI · RAG · LangGraph · LLM evaluation · Python · SQL
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/a-bhimava/projectsyard">
+        <img src="./assets/readme/cases/projectsyard.png" alt="ProjectsYard dashboard and evidence: Product Hunt Top 10, 10,000 accounts in six months, and 2,000-plus AI assessments." />
+      </a>
+      <br />
+      <strong><a href="https://github.com/a-bhimava/projectsyard">Inspect ProjectsYard →</a></strong>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/a-bhimava/PNC-Business-360">
+        <img src="./assets/readme/cases/pnc-business-360.png" alt="Business 360 with PNC Bank architecture: customer research, multi-agent LangGraph workflow, and a human approval boundary." />
+      </a>
+      <br />
+      <strong><a href="https://github.com/a-bhimava/PNC-Business-360">Inspect Business 360 →</a></strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/a-bhimava/llm-credit-decision-audit">
+        <img src="./assets/readme/cases/credit-decision-audit.png" alt="LLM Credit Decision Audit interface and evidence: 5,630 reproducible episodes with controlled variation leading to an evidence trace." />
+      </a>
+      <br />
+      <strong><a href="https://github.com/a-bhimava/llm-credit-decision-audit">Inspect Credit Decision Audit →</a></strong>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/readme/cases/chronos-market-intelligence.png" alt="Chronos Market Intelligence graph explorer for sources, relationships, and an evidence timeline across a public-record corpus." />
+      <br />
+      <strong>Chronos Market Intelligence</strong> · visual case study
+    </td>
+  </tr>
+</table>
 
 ## Connect
 

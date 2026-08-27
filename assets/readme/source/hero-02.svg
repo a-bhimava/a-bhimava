@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#08090D"/><stop offset="0.5" stop-color="#10111D"/><stop offset="1" stop-color="#16182E"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A98BFF"/><stop offset="0.5" stop-color="#BFC9FF"/><stop offset="1" stop-color="#67E8B5"/></linearGradient>
+    <linearGradient id="cardFade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#06070A" stop-opacity="0"/><stop offset="1" stop-color="#06070A" stop-opacity="0.65"/></linearGradient>
+    <clipPath id="shotA"><rect x="628" y="102" width="300" height="172" rx="14"/></clipPath>
+    <clipPath id="shotB"><rect x="766" y="126" width="364" height="242" rx="16"/></clipPath>
+    <clipPath id="shotC"><rect x="902" y="79" width="250" height="144" rx="14"/></clipPath>
+  </defs>
+  <rect width="1200" height="520" fill="url(#bg)"/>
+  <circle cx="837" cy="230" r="315" fill="#9CA9FF" fill-opacity="0.09"/>
+  <text x="48" y="61" fill="#C7D0FF" font-family="Andale Mono, monospace" font-size="16" font-weight="700" letter-spacing="2.5">TECHNICAL AI PM / OPERATING LOOP</text>
+  <text x="48" y="146" fill="#F8F7FF" font-family="Avenir Next, Arial, sans-serif" font-size="49" font-weight="700" letter-spacing="-2">Signal → system → proof.</text>
+  <text x="48" y="189" fill="#B9B6C7" font-family="Avenir Next, Arial, sans-serif" font-size="22">For decisions people can understand and act on.</text>
+  <g opacity="0.22" clip-path="url(#shotA)"><image href="../../../docs/assets/screenshots/ProjectsYard.png" x="628" y="80" width="300" height="240" preserveAspectRatio="xMidYMid slice"/><rect x="628" y="102" width="300" height="172" fill="url(#cardFade)"/></g>
+  <rect x="628" y="102" width="300" height="172" rx="14" fill="none" stroke="#A997FF" stroke-opacity="0.5"/>
+  <g clip-path="url(#shotB)"><image href="../cases/pnc-business-360.png" x="766" y="126" width="364" height="242" preserveAspectRatio="xMidYMid slice"/></g>
+  <rect x="766" y="126" width="364" height="242" rx="16" fill="none" stroke="#C3CCFF" stroke-width="2"/>
+  <g opacity="0.2" clip-path="url(#shotC)"><image href="../../../docs/assets/screenshots/Chronos Agentic Market Intelligence.png" x="902" y="55" width="250" height="188" preserveAspectRatio="xMidYMid slice"/></g>
+  <rect x="902" y="79" width="250" height="144" rx="14" fill="none" stroke="#8EEFCB" stroke-opacity="0.5"/>
+  <text x="786" y="344" fill="#E4E8FF" font-family="Andale Mono, monospace" font-size="14" letter-spacing="1.2">MULTI-AGENT PRODUCT SYSTEM</text>
+  <path d="M61 316 C265 316 268 270 482 270 S778 340 1090 340" fill="none" stroke="#574D7A" stroke-width="2"/>
+  <path d="M61 316 C365 316 411 270 573 270" fill="none" stroke="url(#line)" stroke-width="4"/>
+  <circle cx="573" cy="270" r="7" fill="#B8C4FF"/>
+  <g transform="translate(48 390)">
+    <rect width="320" height="92" rx="14" fill="#12121A" stroke="#4B4C60"/>
+    <text x="22" y="31" fill="#8E91A5" font-family="Andale Mono, monospace" font-size="14" font-weight="700" letter-spacing="1.5">01 / DISCOVER</text>
+    <text x="22" y="67" fill="#C5C5D1" font-family="Avenir Next, Arial, sans-serif" font-size="24" font-weight="700">Customer &amp; market signal</text>
+  </g>
+  <g transform="translate(404 390)">
+    <rect width="320" height="92" rx="14" fill="#171827" stroke="#B8C4FF" stroke-width="2"/>
+    <text x="22" y="31" fill="#CFD7FF" font-family="Andale Mono, monospace" font-size="14" font-weight="700" letter-spacing="1.5">02 / DESIGN</text>
+    <text x="22" y="67" fill="#FAFBFF" font-family="Avenir Next, Arial, sans-serif" font-size="24" font-weight="700">Product system</text>
+  </g>
+  <g transform="translate(760 390)">
+    <rect width="320" height="92" rx="14" fill="#10161A" stroke="#3D6558"/>
+    <text x="22" y="31" fill="#8DA99D" font-family="Andale Mono, monospace" font-size="14" font-weight="700" letter-spacing="1.5">03 / PROVE</text>
+    <text x="22" y="67" fill="#C7D8D1" font-family="Avenir Next, Arial, sans-serif" font-size="24" font-weight="700">Evidence to act</text>
+  </g>
+</svg>

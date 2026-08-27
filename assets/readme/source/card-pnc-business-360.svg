@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090A10"/>
+      <stop offset="0.52" stop-color="#11111D"/>
+      <stop offset="1" stop-color="#25111D"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFB4C5"/>
+      <stop offset="0.5" stop-color="#C8B7FF"/>
+      <stop offset="1" stop-color="#75E9C1"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="600" cy="318" r="250" fill="#9E8BFF" fill-opacity="0.07"/>
+  <path d="M0 120H540C778 120 938 48 1200 48" fill="none" stroke="#F4AAC1" stroke-opacity="0.24" stroke-width="2"/>
+  <path d="M0 120H430" fill="none" stroke="url(#signal)" stroke-width="4"/>
+  <text x="40" y="68" fill="#FFC2D0" font-family="Avenir Next, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3">EXHIBIT 04 / SHIPPED FINTECH WORKFLOW</text>
+  <text x="1160" y="68" fill="#B39BAA" text-anchor="end" font-family="Andale Mono, monospace" font-size="16" letter-spacing="1.4">RESEARCH · AGENTS · APPROVAL</text>
+
+  <path d="M270 332 C390 332 410 255 506 255" fill="none" stroke="#C6B6FF" stroke-opacity="0.52" stroke-width="3"/>
+  <path d="M694 255 C785 255 812 332 930 332" fill="none" stroke="#7CE8BF" stroke-opacity="0.52" stroke-width="3"/>
+  <circle cx="270" cy="332" r="8" fill="#FF9CBA" filter="url(#glow)"/>
+  <circle cx="600" cy="255" r="8" fill="#B7A8FF" filter="url(#glow)"/>
+  <circle cx="930" cy="332" r="8" fill="#73E8BB" filter="url(#glow)"/>
+
+  <g transform="translate(68 220)">
+    <rect width="304" height="224" rx="22" fill="#14131F" stroke="#FFB1C6" stroke-opacity="0.55"/>
+    <text x="28" y="46" fill="#FFBDD0" font-family="Andale Mono, monospace" font-size="16" font-weight="700" letter-spacing="1.5">01 / DISCOVER</text>
+    <text x="28" y="99" fill="#FAF8FF" font-family="Avenir Next, Arial, sans-serif" font-size="29" font-weight="700">Customer reality</text>
+    <text x="28" y="138" fill="#B9B2C6" font-family="Avenir Next, Arial, sans-serif" font-size="19">90+ surveys · 10 interviews</text>
+    <text x="28" y="170" fill="#B9B2C6" font-family="Avenir Next, Arial, sans-serif" font-size="19">16-competitor benchmark</text>
+    <text x="28" y="202" fill="#F0A7BF" font-family="Andale Mono, monospace" font-size="15">$2B INSIGHT GAP</text>
+  </g>
+
+  <g transform="translate(448 144)">
+    <rect width="304" height="224" rx="22" fill="#151521" stroke="#BBAAFF" stroke-opacity="0.68"/>
+    <text x="28" y="46" fill="#CDBFFF" font-family="Andale Mono, monospace" font-size="16" font-weight="700" letter-spacing="1.5">02 / ORCHESTRATE</text>
+    <text x="28" y="99" fill="#FAF8FF" font-family="Avenir Next, Arial, sans-serif" font-size="29" font-weight="700">Agent workflow</text>
+    <text x="28" y="138" fill="#C1BBD1" font-family="Avenir Next, Arial, sans-serif" font-size="19">Cash flow · risk · opportunity</text>
+    <text x="28" y="170" fill="#C1BBD1" font-family="Avenir Next, Arial, sans-serif" font-size="19">LangGraph coordination</text>
+    <text x="28" y="202" fill="#CDBFFF" font-family="Andale Mono, monospace" font-size="15">MULTI-AGENT SYSTEM</text>
+  </g>
+
+  <g transform="translate(828 220)">
+    <rect width="304" height="224" rx="22" fill="#111B1B" stroke="#8BEDC5" stroke-opacity="0.58"/>
+    <text x="28" y="46" fill="#A6F3D2" font-family="Andale Mono, monospace" font-size="16" font-weight="700" letter-spacing="1.5">03 / GOVERN</text>
+    <text x="28" y="99" fill="#FAFFFC" font-family="Avenir Next, Arial, sans-serif" font-size="29" font-weight="700">Action with control</text>
+    <text x="28" y="138" fill="#B3CCC3" font-family="Avenir Next, Arial, sans-serif" font-size="19">Guidance for business users</text>
+    <text x="28" y="170" fill="#B3CCC3" font-family="Avenir Next, Arial, sans-serif" font-size="19">Human approval boundary</text>
+    <text x="28" y="202" fill="#9BF0CA" font-family="Andale Mono, monospace" font-size="15">EXPLAIN → APPROVE → ACT</text>
+  </g>
+
+  <rect x="40" y="506" width="8" height="204" rx="4" fill="url(#signal)"/>
+  <text x="72" y="564" fill="#FDF9FF" font-family="Avenir Next, Arial, sans-serif" font-size="49" font-weight="700" letter-spacing="-1.6">Business 360 with PNC Bank</text>
+  <text x="72" y="607" fill="#C8BFCC" font-family="Avenir Next, Arial, sans-serif" font-size="23">Research-backed small-business intelligence designed for decisions, not dashboards.</text>
+  <text x="72" y="674" fill="#FFC2D0" font-family="Andale Mono, monospace" font-size="21" font-weight="700">SHIPPED MULTI-AGENT WORKFLOW</text>
+  <line x1="518" y1="654" x2="518" y2="686" stroke="#655564"/>
+  <text x="548" y="674" fill="#FDF9FF" font-family="Avenir Next, Arial, sans-serif" font-size="25" font-weight="700">four-week delivery</text>
+  <text x="72" y="757" fill="#A993A4" font-family="Andale Mono, monospace" font-size="15" letter-spacing="1.2">DISCOVER → DESIGN → GOVERN</text>
+</svg>
