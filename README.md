@@ -35,11 +35,3 @@
 <p align="center">
   <img src="./assets/readme/project-carousel.gif" alt="Horizontally animated project carousel featuring ProjectsYard, Business 360, Credit Decision Audit, and Chronos." width="100%" />
 </p>
-
-## Connect
-
-<p>
-  <a href="https://linkedin.com/in/aditya-teja"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" height="34" /></a>
-  <a href="https://www.projectsyard.com/portfolio/adityatejabh"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="Portfolio" height="34" /></a>
-  <a href="mailto:adityatejabh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" height="34" /></a>
-</p>

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1440" viewBox="0 0 1440 1440">
-  <rect width="1440" height="840" fill="#08090D"/>
-  <text x="18" y="60" fill="#F6F4FF" font-family="Avenir Next, Arial, sans-serif" font-size="31" font-weight="700" letter-spacing="-0.6">PROJECTSYARD — FOUNDER · 10,000+ USERS · PRODUCT HUNT TOP 10</text>
-  <image href="../../../docs/assets/screenshots/ProjectsYard.png" x="0" y="100" width="1440" height="740" preserveAspectRatio="xMidYMin slice"/>
+  <rect width="1440" height="670" fill="#08090D"/>
+  <text x="18" y="47" fill="#F6F4FF" font-family="Avenir Next, Arial, sans-serif" font-size="29" font-weight="700" letter-spacing="-0.6">PROJECTSYARD — FOUNDER · 10,000+ USERS · PRODUCT HUNT TOP 10</text>
+  <image href="../../../docs/assets/screenshots/ProjectsYard.png" x="0" y="70" width="1440" height="600" preserveAspectRatio="xMidYMin slice"/>
 </svg>
