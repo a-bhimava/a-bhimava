@@ -10,23 +10,23 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>Product leadership &amp; growth</strong></td>
-      <td>0→1 strategy · roadmaps, PRDs &amp; prioritization · customer discovery / JTBD · research, experiments &amp; A/B tests · KPIs, GTM &amp; pricing · executive alignment</td>
+      <td><strong>Product Management &amp; growth</strong></td>
+      <td>0→1 strategy · roadmaps, PRDs &amp; prioritization · customer discovery / JTBD · user stories &amp; experiment design · product analytics, KPIs / OKRs · GTM, pricing &amp; pilots</td>
       <td><a href="https://github.com/a-bhimava/projectsyard">ProjectsYard</a> · <a href="https://github.com/a-bhimava/PNC-Business-360">Business 360</a></td>
     </tr>
     <tr>
-      <td><strong>AI systems, evals &amp; governance</strong></td>
-      <td>LLM / GenAI products · agents (LangGraph, Bedrock) · MCP &amp; tool calling · RAG, hybrid search &amp; embeddings · eval harnesses &amp; regression tests · guardrails, safety &amp; audit trails</td>
+      <td><strong>AI product systems &amp; safety</strong></td>
+      <td>LLM / GenAI product design · RAG (hybrid search, embeddings) · AI agents (LangGraph, Bedrock) · MCP &amp; tool calling · eval harnesses, guardrails &amp; model observability</td>
       <td><a href="https://github.com/a-bhimava/PNC-Business-360">Business 360</a> · <a href="https://github.com/a-bhimava/llm-credit-decision-audit">Credit Decision Audit</a> · <a href="https://github.com/a-bhimava/Project-Chronos">Chronos</a></td>
     </tr>
     <tr>
-      <td><strong>Technical delivery &amp; cloud</strong></td>
-      <td>Solution architecture · enterprise integrations · APIs, OAuth &amp; webhooks · AWS (Lambda, ECS/Fargate, API Gateway, S3/RDS) · IAM, VPC &amp; CloudWatch · Docker, Terraform &amp; CI/CD</td>
+      <td><strong>AI / ML &amp; analytics</strong></td>
+      <td>Python, SQL &amp; TypeScript · XGBoost, feature engineering &amp; Spark / PySpark · data modeling &amp; ETL · retrieval quality &amp; error analysis · Amplitude / Google Analytics · cost &amp; latency analysis</td>
       <td><a href="https://github.com/a-bhimava/PNC-Business-360">Business 360</a> · <a href="https://github.com/a-bhimava/projectsyard">ProjectsYard</a></td>
     </tr>
     <tr>
-      <td><strong>Software, data &amp; applied ML</strong></td>
-      <td>Python, TypeScript &amp; SQL · FastAPI &amp; Pydantic · PostgreSQL, pgvector &amp; Redis · XGBoost, Spark &amp; PySpark · ETL, data modeling &amp; retrieval quality · cost / latency analysis</td>
+      <td><strong>Technical delivery</strong></td>
+      <td>Solution architecture · enterprise integrations · FastAPI, REST APIs &amp; webhooks · Docker &amp; CI/CD · AWS deployment</td>
       <td>ICICI Bank · Capgemini · <a href="https://github.com/a-bhimava/Project-Chronos">Chronos</a></td>
     </tr>
     <tr>
