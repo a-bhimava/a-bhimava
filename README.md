@@ -27,16 +27,16 @@
     <tr>
       <td><strong>Technical Delivery</strong></td>
       <td>Solution architecture · enterprise integrations · FastAPI, REST APIs &amp; webhooks · Docker &amp; CI/CD · AWS deployment</td>
-      <td>ICICI Bank · Capgemini · <a href="https://github.com/a-bhimava/Project-Chronos">Chronos</a></td>
+      <td><a href="./Aditya_Resume_CMU_MS+MBA.pdf">ICICI Bank</a> · <a href="./Aditya_Resume_CMU_MS+MBA.pdf">Capgemini</a> · <a href="https://github.com/a-bhimava/Project-Chronos">Chronos</a></td>
     </tr>
     <tr>
       <td><strong>Enterprise Fintech &amp; Leadership</strong></td>
       <td>B2B SaaS &amp; fintech · regulated AI · data governance, security reviews &amp; threat modeling · credit / risk workflows · stakeholder management · cross-functional leadership &amp; change management</td>
-      <td>PNC Bank · ICICI Bank · Capgemini · ProjectsYard</td>
+      <td><a href="./Aditya_Resume_CMU_MS+MBA.pdf">PNC Bank</a> · <a href="./Aditya_Resume_CMU_MS+MBA.pdf">ICICI Bank</a> · <a href="./Aditya_Resume_CMU_MS+MBA.pdf">Capgemini</a> · <a href="https://github.com/a-bhimava/projectsyard">ProjectsYard</a></td>
     </tr>
   </tbody>
 </table>
 
 <p align="center">
-  <img src="./assets/readme/project-carousel.gif" alt="Horizontally animated project carousel featuring ProjectsYard, Business 360, Credit Decision Audit, and Chronos." width="100%" />
+  <img src="./assets/readme/project-carousel.gif" alt="Carousel of full project screenshots: ProjectsYard, Business 360, Credit Decision Audit, and Chronos." width="100%" />
 </p>

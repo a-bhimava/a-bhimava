@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1440" viewBox="0 0 1440 1440">
-  <rect width="1440" height="760" fill="#08090D"/>
-  <text x="18" y="47" fill="#F6F4FF" font-family="Avenir Next, Arial, sans-serif" font-size="29" font-weight="700" letter-spacing="-0.6">PROJECTSYARD — FOUNDER · 10,000+ USERS · PRODUCT HUNT TOP 10</text>
-  <image href="../../../generated/assets/screenshots/ProjectsYard.png" x="0" y="70" width="1440" height="690" preserveAspectRatio="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <rect width="1200" height="675" fill="#08090D"/>
+  <text x="18" y="32" fill="#F6F4FF" font-family="Avenir Next, Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="-0.4">PROJECTSYARD · AI PORTFOLIO INFRASTRUCTURE</text>
+  <rect y="45" width="1200" height="3" fill="#8B5CF6"/>
+  <image href="../../../generated/assets/screenshots/ProjectsYard.png" x="0" y="48" width="1200" height="627" preserveAspectRatio="xMidYMid meet"/>
 </svg>
