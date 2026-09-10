@@ -1,4 +1,4 @@
-#### Aditya Teja Bhimavarapu <small>· AI Product Manager · Carnegie Mellon · 5+ Years Exp across Finance, SWE, Tech Consulting</small>
+#### Aditya Teja Bhimavarapu <small>· AI Product Manager · Carnegie Mellon · 5+ Years Exp across Software Development, Consulting, Finance</small>
 
 <table>
   <thead>
