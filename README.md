@@ -40,3 +40,7 @@
 <p align="center">
   <img src="./assets/readme/project-carousel.gif" alt="Carousel of full project screenshots: ProjectsYard, Business 360, Credit Decision Audit, and Chronos." width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=a-bhimava&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
