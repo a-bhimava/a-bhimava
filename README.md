@@ -42,5 +42,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a-bhimava&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/aditya-teja/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Aditya on LinkedIn" /></a>
+  <a href="https://www.projectsyard.com/"><img src="https://img.shields.io/badge/ProjectsYard-172554?style=for-the-badge&logo=producthunt&logoColor=white" alt="Visit ProjectsYard" /></a>
+  <a href="./Aditya_Resume_CMU_MS+MBA.pdf"><img src="https://img.shields.io/badge/Resume-334155?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Aditya's resume" /></a>
+  <a href="mailto:adityatejabh@gmail.com"><img src="https://img.shields.io/badge/Email-475569?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aditya" /></a>
+  <a href="https://github.com/a-bhimava?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/a-bhimava?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=Stars&color=1D4ED8" alt="Total stars across Aditya's GitHub repositories" /></a>
+  <a href="https://github.com/a-bhimava"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fa-bhimava%3Fy%3Dlast&query=%24.total.lastYear&label=Contribs%20%281Y%29&style=for-the-badge&logo=github&logoColor=white&color=2563EB&cacheSeconds=3600" alt="Aditya's GitHub contributions in the last year" /></a>
+  <a href="https://github.com/a-bhimava"><img src="https://komarev.com/ghpvc/?username=a-bhimava&label=Views&color=3B82F6&style=for-the-badge" alt="Aditya's GitHub profile views" /></a>
 </p>
